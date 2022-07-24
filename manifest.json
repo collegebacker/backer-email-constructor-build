@@ -1,8 +1,0 @@
-{
-    "name": "Email Builder | Backer",
-    "id": "1128480267728898149",
-    "api": "1.0.0",
-    "main": "code.js",
-    "ui": "ui.html",
-    "editorType": ["figma"]
-}
